@@ -24,12 +24,12 @@ He will be responsible for adding, editing and deleting show time for movies.
 He can also view the number of users that are registered to the web portal.
 
 Online Movie Booking system features
-1.Login and Registration for users.
-2.View show time just by selecting your preferred date.
-3.Movie Reviews and ratings.
-4.Movie trailers .
-5.Payment Gateway needs to be added to this project.
-6.Admin dashboard.
-7.Add, delete and edit movie theaters.
-8.Add, delete and edit movies.
+1. Login and Registration for users.
+2. View show time just by selecting your preferred date.
+3. Movie Reviews and ratings.
+4. Movie trailers .
+5. Payment Gateway needs to be added to this project.
+6. Admin dashboard.
+7. Add, delete and edit movie theaters.
+8. Add, delete and edit movies.
 9.Add, delete and edit shows and their rates for each classes.
