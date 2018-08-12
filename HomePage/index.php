@@ -3,14 +3,14 @@
 <head>
 	<meta charset="UTF-8">
 	<title>Lord of the Rings</title>
-	<link rel="stylesheet" href="style.css">
-	<!-- Start Header -->   	
+	<link rel="stylesheet" href="index.css">
+	<!-- Start Header -->
      <header>
      	<div id="phone">
-     		<h2>&#9742; 9849770355</h2> 
+     		<h2>&#9742; 9849770355</h2>
      	</div>
      	<div id="logo">
-     		<a href="index.html"><img src="img/yatra_logo.png"></a>
+     		<a href="index.php"><img src="img/yatra_logo.png"></a>
      	</div>
      </header>
  <!-- End Header -->
@@ -42,14 +42,14 @@
 
 
 		<!-- <div class="rectangle"></div> -->
-		
+
 		<!-- <div class="rectangle-2">
 			<div class="rectagle-wrapper">
 			</div>
 		</div>
  -->
 	<section class="series wrapper">
-		<!-- 
+		<!--
 			(.series-item>img[src="images/img_part$.jpg"])*3
 		-->
 		<div class="series-item">
@@ -73,7 +73,7 @@
 					</div>
 				</div>
 			</div>
-			
+
 		</div>
 		<div class="series-item">
 			<div class="series-item-wrapper">
@@ -110,7 +110,7 @@
 				<label><input type="checkbox"><span></span> Snacks</label>
 				<label><input type="checkbox"><span></span> Special Seat</label>
 			</p>
-			
+
 			<p>
 				<label>Number of Tickets</label>
 				<label><input type="radio" name="no_of_tickets">1</label>
@@ -127,13 +127,3 @@
 
 </body>
 </html>
-
-
-
-
-
-
-
-
-
-
