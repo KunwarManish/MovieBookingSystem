@@ -16,7 +16,7 @@
   <a href="#contact">About us</a>
   <a href="#">Coming soon</a>
   <a href="#">ADMIN</a>
-  <a href="#"><span style="color:tomato;">Register</a>
+  <a href="register.php"><span style="color:tomato;">Register</a>
   <div class="open-button" onclick="openForm()"><a><span style="color:red;">LOG IN</span></a></div>
   <?php include "login.php"?>
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
